@@ -4,3 +4,5 @@ Web page or HTML analysis tool that extracts specific insights about the Web pag
 Run the WebAnalyser.py using python interpreter.
 
 Required packages: BeautifulSoup.
+
+File TestWebAnalyser.py contains Unit tests for the program.

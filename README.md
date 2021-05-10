@@ -7,7 +7,7 @@ Program returns:
 1. All unique tags used in the HTML document
 2. Most commonly used tag
 3. Longest path starting from root node to the descendent
-4. Lngest path starting from root node where the most popular tag is used the most times
+4. Longest path starting from root node where the most popular tag is used the most times
 
 File TestWebAnalyser.py contains Unit tests for the program.
 
